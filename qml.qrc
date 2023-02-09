@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HomePage.qml</file>
+        <file>MenuIcon.qml</file>
+        <file>assets/bmi.png</file>
+        <file>assets/bottle.png</file>
+        <file>assets/heart.png</file>
+        <file>assets/lift.png</file>
+        <file>assets/run.png</file>
+        <file>assets/skipping.png</file>
+        <file>MenuName.qml</file>
+        <file>BottomDeck.qml</file>
+        <file>assets/home.png</file>
+        <file>assets/menu.png</file>
+        <file>RunningPage.qml</file>
+        <file>BmiPage.qml</file>
+        <file>assets/running.gif</file>
+        <file>assets/running2.gif</file>
+        <file>WelcomePage.qml</file>
+        <file>BmiCalcMale.qml</file>
+        <file>BmiCalcFemale.qml</file>
+        <file>assets/back.png</file>
+        <file>assets/welcomeheart.png</file>
+        <file>assets/boy.png</file>
+        <file>assets/girl.png</file>
+    </qresource>
+</RCC>
